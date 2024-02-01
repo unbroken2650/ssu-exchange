@@ -1,0 +1,12 @@
+$main-color: #2AC4C4;
+
+.title {
+  * {
+    margin: 0;
+    text-align: center;
+  }
+}
+
+.block {
+  border: 1px solid $main-color;
+}
