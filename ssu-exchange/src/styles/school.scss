@@ -1,0 +1,25 @@
+#school {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  font-size: 10px;
+}
+
+#school-top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  color: #2ac4c4;
+
+  font-size: 12px;
+  font-weight: bold;
+}
+
+#school-detail {
+  width: 20%;
+  text-align: center;
+}
